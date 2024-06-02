@@ -5,6 +5,7 @@
 🔭 My current interests include praciting data structures and algorithms (mainly, on Leetcode) and web development (specifically, using MERN stack).
 
 📫 How to reach me:
+- Email: abhimanyuku024@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abhimanyu-kumar-676a311aa/
 
 <!--
