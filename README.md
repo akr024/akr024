@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 My name is Abhimanyu Kumar and I am a student studying BSc Software Engineering and Management. 
+🌱 My name is Abhimanyu Kumar, and I am a graduate student in Computer Science at Northeastern University!
 
-🔭 My current interests include praciting data structures and algorithms (mainly, on Leetcode) and web development (specifically, using MERN stack).
+🔭 My current interests include full-stack web development and practicing data structures and algorithms (see my Leetcode profile). I’m currently honing my skills in web development by following Harkirat Singh's cohort 3 (web development + devops)
 
 📫 How to reach me:
 - Email: abhimanyuku024@gmail.com
