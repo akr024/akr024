@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi!
 
-🌱 My name is Abhimanyu Kumar, and I am a graduate student in Computer Science at Northeastern University!
+My name is Abhimanyu Kumar, and I am a graduate student in Computer Science at Northeastern University!
 
-🔭 My current interests include full-stack web development and practicing data structures and algorithms (see my Leetcode profile). I’m currently honing my skills in web development by following Harkirat Singh's cohort 3 (web development + devops)
+My current interests include full-stack web development and practicing data structures and algorithms (see my Leetcode profile). I’m currently honing my skills in web development by following Harkirat Singh's cohort 3 (web development + devops)
 
-📫 How to reach me:
+How to reach me:
 - Email: abhimanyuku024@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abhimanyu-kumar-676a311aa/
 
