@@ -1,8 +1,10 @@
 ## Hi!
 
-My name is Abhimanyu Kumar, and I am a graduate student in Computer Science at Northeastern University!
+I'm Abhimanyu Kumar, a Computer Science graduate student at Northeastern University, where I'm also working as a Graduate Teaching Assistant for Computer Science courses. I completed my undergraduate studies in Software Engineering at the University of Gothenburg and spent a semester studying Computer Science and Mathematics at the National University of Singapore.
 
-My current interests include full-stack web development and practicing data structures and algorithms (see my Leetcode profile). I’m currently honing my skills in web development by following Harkirat Singh's cohort 3 (web development + devops)
+I've spent the past couple of years teaching and mentoring students in courses ranging from data management to software design. Before that, I was part of a small tech team at a student association called SKIP, where we built and maintained tools for student events. It taught me a lot about coordinating people, managing feedback, and actually shipping things that work.
+
+Most of my project work has been in full-stack development: building management systems, event platforms, and IoT applications. I enjoy working on backend systems and designing architectures, and I am equally comfortable developing frontend applications and creating deployment pipelines.
 
 How to reach me:
 - Email: abhimanyuku024@gmail.com
