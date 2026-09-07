@@ -1,10 +1,12 @@
-## Hi!
+## About me!
 
-I'm Abhimanyu Kumar, a Computer Science graduate student at Northeastern University, where I'm also working as a Graduate Teaching Assistant for Computer Science courses. I completed my undergraduate studies in Software Engineering at the University of Gothenburg and spent a semester studying Computer Science and Mathematics at the National University of Singapore.
+Networking, automation, and backend systems; that's where I focus, with a particular interest in the production infrastructure that keeps large-scale networks reliable. Certified in CCNA, CCNA Automation (DevNet) and RHCSA, and comfortable working across Python, systems automation, and network troubleshooting.
 
-I've spent the past couple of years teaching and mentoring students in courses ranging from data management to software design. Before that, I was part of a small tech team at a student association called SKIP, where we built and maintained tools for student events. It taught me a lot about coordinating people, managing feedback, and actually shipping things that work.
+Currently a Backend Engineering Intern at Evenness. Previously a Graduate Teaching Assistant at Northeastern University and an Undergraduate Teaching Assistant at the University of Gothenburg, supporting courses in data management, software design, and systems engineering.
 
-Most of my project work has been in full-stack development: building management systems, event platforms, and IoT applications. I enjoy working on backend systems and designing architectures, and I am equally comfortable developing frontend applications and creating deployment pipelines.
+MS in Computer Science at Northeastern University; BS in Software Engineering from the University of Gothenburg (an exchange semester at the National University of Singapore).
+
+Looking to grow in network engineering and production engineering; Happy to connect!
 
 How to reach me:
 - Email: abhimanyuku024@gmail.com
